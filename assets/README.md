@@ -27,7 +27,7 @@
   나무로부터 위로 메세지를 받고, 이파리를 날리거나 받을 수 있어요. 
   내가 보낸 이파리가 몇 명에게 위로가 되었는지 눈으로 직접 확인 해보세요!
   <br>
-  <img src="/assets/image/main_page.jpg" width="200"> <img src="/assets/image/leaf_view.jpg" width="200">
+  <img src="/assets/image/main_page.jpg" width="200">                  <img src="/assets/image/leaf_view.jpg" width="200">
 
 
 ### :apple: 열매 생성
