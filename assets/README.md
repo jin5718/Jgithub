@@ -66,8 +66,8 @@
 
 ### 상세 스택
 
-  # 백엔드
-  ---
+### 백엔드
+---
 
   **Language |** Java 17                                                  
 
@@ -76,7 +76,6 @@
 
   **CI/CD |** AWS EC2, Docker, Jenkins                        
   **Build Tool |** Gradle
-
 
 
 ### 안드로이드
