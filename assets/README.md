@@ -33,9 +33,20 @@
 
 ### :apple: 열매 생성
   
-  오늘 생성한 열매를 확인 할 수 있어요. 오늘 나와 같은 감정을 가진 사람이 몇 명인지도 궁금하지 않나요?
+  말하기 또는 텍스트로 오늘의 열매를 생성하고, 내가 만든 열매를 확인 할 수 있어요. 
+  오늘 나와 같은 감정을 가진 사람이 몇 명인지도 궁금하지 않나요?
+  <br> 
+  <img src="/assets/image/make_fruit1.jpg" width="300">   <img src="/assets/image/make_fruit2.jpg" width="300">   <img src="/assets/image/make_fruit3.jpg" width="300">   <img src="/assets/image/make_fruit4.jpg" width="300">
+
+
   <br>
-  <img src="/assets/image/fruit_result.jpg" width="200">
+  <br>
+  
+  <img src="/assets/image/fruit_result.jpg" width="300"> 
+
+
+
+
 
 
 
