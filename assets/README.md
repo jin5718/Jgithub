@@ -36,8 +36,8 @@
 - 익명 메세지 서비스 (이파리)
   - 익명성을 기반으로 한 이파리 주고받기 서비스. 위로, 격려, 응원을 전하고 따뜻한 마음을 전달받아 보세요.
 
-
   원하는 카테고리를 선택한 후, 휴대폰을 흔들어 이파리를 받아보세요
+  <br>
   <img src="/assets/image/leaf_receive.gif" width="400">
 
 
@@ -91,6 +91,8 @@
   **CI/CD |** AWS EC2, Docker, Jenkins                        
   **Build Tool |** Gradle
 
+---
+
 
 ### 안드로이드
 
@@ -103,6 +105,8 @@
   **DB |**
 
   **Backend Services |** Firebase
+
+---
 
 - ETC
   - nginx 1.25.1
@@ -117,17 +121,13 @@
 
 ### 서비스 아키텍처
 
-<img src="./assets/images/stack.png" width="600">
+<img src="/assets/image/architecture.jpg" width="400">
 
 ### 요구 사항 정의서
-
-<img src="./assets/images/requirements spec1.PNG" width="600">
-<img src="./assets/images/requirements spec2.PNG" width="600">
 
 
 ### 화면 설계서
 
-<img src="./assets//images/figma.PNG" width="600">
 
 ### API 명세서
 
@@ -154,9 +154,11 @@
 | 443  | nginx HTTPS          |
 
 
-# 팀원 소개
+# :family: 팀원 소개
 
 뭔가 이렇게 정리해놓은게 더 깔끔하고 예쁜 거 같아서..? 
+우리팀도 하나 만들까 생각은 해봤습니다?
+<br>
 <img src="/assets/image/team.png" width="400">
 
 
