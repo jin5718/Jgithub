@@ -22,6 +22,20 @@
 <img src="/assets/image/signup_page.jpg" width="400">  <img src="/assets/image/login_page.jpg" width="400">
 
 
+### :evergreen_tree: 메인 페이지
+
+  나무로부터 위로 메세지를 받고, 이파리를 날리거나 보낼 수 있어요.
+  <img src="/assets/image/main_page.jpg" width="400">
+
+  
+  캘린더로 이동할 수 있는 링크도 있어요
+
+
+### :apple: 열매 생성
+
+
+
+
 
 
 
