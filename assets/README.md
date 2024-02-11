@@ -1,6 +1,6 @@
 # FRIENTREE: 오롯이 당신을 위한 프렌트리 🌳
 
-<img src="/assets/image/Freeee.jpg" width="600">
+<img src="/assets/image/Freeee.jpg" width="300">
 
 <br/>
 
@@ -15,38 +15,13 @@
 
 ## 프렌트리 서비스 화면
 
-### 📝 회원가입 페이지
-<img src = "../assets/image/signup_page.jpg" width="400">
+### 📝 회원가입 & 로그인
 
- 
-### 로그인페이지
+  간단한 이메일 인증으로 간편하게 프렌트리를 즐겨보세요!
 
-<img src="../assets/image/login_page.jpg" width="600">
+<img src="/assets/image/signup_page.jpg" width="400">  <img src="/assets/image/login_page.jpg" width="400">
 
-### 👤 마이페이지
 
-개인화된 정보와 설정, 여러분의 활동 내역을 한 눈에 확인하실 수 있습니다. 나만의 공간을 꾸미고, SSAFY 생활의 흔적을 남기세요.
-
-<img src="./assets/gif/un_mypage.gif" width="600">
-
-### 🍱 점심 메뉴 확인
-
-오늘의 점심은 무엇일까요? 매일 업데이트되는 점심 메뉴를 통해 미리 선택하고 기대해보세요!
-
-<img src="./assets/gif/un_lunch.gif" width="600">
-
-### 🎉 개인 광고 게시
-
-자신만의 소식, 홍보하고 싶은 것들을 공유하세요! 여러분의 소식을 기다립니다.
-
-<img src="./assets/gif/un_ads.gif" width="600">
-
-### 📝 익명 게시판 & 댓글
-
-여러분의 이야기, 정보, 질문을 자유롭게 나누세요. 함께 성장하는 커뮤니티가 될 것입니다.
-
-<img src="./assets/gif/un_article.gif" width="300">
-<img src="./assets/gif/un_comment.gif" width="300">
 
 <br />
 
@@ -85,8 +60,8 @@
 - BackEnd
   - JAVA 17
   - Gradle
-  - SpringBoot 3.1.1, Quarydsl-JPA 5.0.0, Lombok, Swagger3, CertBot
-- FrontEnd
+  - SpringBoot 3.1.7, Quarydsl-JPA 5.0.0, Lombok, Swagger3, CertBot
+- Android
   - HTML5, CSS3, JavaScript(ES6)
   - React 18.2.0, React-redux 8.1.1, React-router-dom 6.14.1
   - axios 1.4.0, Material-UI, bootstrap 5.3.0
@@ -130,7 +105,7 @@
 
 ### ERD
 
-<img src="./assets/images/ERD.png" width="600">
+<img src="/assets/image/DEVELOPER-ERD (1).png" width="600">
 
 ### EC2 포트 정리
 
