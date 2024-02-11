@@ -40,10 +40,10 @@
   - 친구에게 얘기하듯 편하게 오늘 있었던 일들을 얘기해보세요. 당신의 감정을 분석하여 귀여운 열매로 받아볼 수 있답니다.
 
 - 감정 분석 서비스 (주스)
-  - 당신의 일주일간 있었던 일들을 확인하고 맛있는 주스를 받아보세요. 다양한 주스들이 존재하는 도감을 확인할 수 있어 소소한 재미를 즐길 수 있어요.
+  - 일주일 다양한 주스들이 존재하는 도감을 확인할 수 있어 소소한 재미를 즐길 수 있어요.
 
 - 감정 통계 서비스 (캘린더)
-  - 한달간....
+  - 한달간. ...
 
 ### 개발환경
 
@@ -66,16 +66,31 @@
 
 ### 상세 스택
 
-- BackEnd
-  - JAVA 17
-  - Gradle
-  - SpringBoot 3.1.7, Quarydsl-JPA 5.0.0, Lombok, Swagger3, CertBot
-- Android
-  - HTML5, CSS3, JavaScript(ES6)
-  - React 18.2.0, React-redux 8.1.1, React-router-dom 6.14.1
-  - axios 1.4.0, Material-UI, bootstrap 5.3.0
-  - Node.js , npm, env-cmd 10.1.0
-  - Web RTC, openvidu-browser
+  # 백엔드
+  ---
+
+  **Language |** Java 17                                                  
+
+  **Framework |** Spring Boot 3.1.7                            
+  **DB |** MySQL, Spring Data JPA, MongoDB                
+
+  **CI/CD |** AWS EC2, Docker, Jenkins                        
+  **Build Tool |** Gradle
+
+
+
+### 안드로이드
+
+---
+
+  **Language |** Kotlin
+
+  **Framework |** Android Studio
+
+  **DB |**
+
+  **Backend Services |** Firebase
+
 - ETC
   - nginx 1.25.1
   - redix:latest
@@ -85,7 +100,7 @@
 
 - 이슈 관리 : Jira
 - 형상 관리 : Gitlab, Git, Gerrit
-- 커뮤니케이션 : Notion, MatterMost, Discord
+- 커뮤니케이션 : Notion, MatterMost, Discord, Gerrit, Git-Flow
 
 ### 서비스 아키텍처
 
