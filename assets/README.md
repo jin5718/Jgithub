@@ -24,16 +24,17 @@
 
 ### :evergreen_tree: 메인 페이지
 
-  나무로부터 위로 메세지를 받고, 이파리를 날리거나 보낼 수 있어요.
-  <img src="/assets/image/main_page.jpg" width="400">
-
-  
-  캘린더로 이동할 수 있는 링크도 있어요
+  나무로부터 위로 메세지를 받고, 이파리를 날리거나 받을 수 있어요. 
+  내가 보낸 이파리가 몇 명에게 위로가 되었는지 눈으로 직접 확인 해보세요!
+  <br>
+  <img src="/assets/image/main_page.jpg" width="200"> <img src="/assets/image/leaf_view.jpg" width="200">
 
 
 ### :apple: 열매 생성
-
-
+  
+  오늘 생성한 열매를 확인 할 수 있어요.
+  <br>
+  <img src="/assets/image/fruit_result.jpg" width="200">
 
 
 
@@ -177,4 +178,4 @@
 
 
 # :rocket: 노션 링크
-https://www.notion.so/6f0297b39fd04966a65676eb0d140b69
+[DEVERLOPER101 노션 살펴보기](https://www.notion.so/6f0297b39fd04966a65676eb0d140b69)
