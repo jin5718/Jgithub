@@ -1,6 +1,6 @@
 # FRIENTREE: 오롯이 당신을 위한 프렌트리 🌳
 
-<img src="./assets/images/main_logo.png" width="600">
+<img src="/assets/image/Freeee.jpg" width="600">
 
 <br/>
 
@@ -15,15 +15,13 @@
 
 ## 프렌트리 서비스 화면
 
-### 📝 회원가입 & 로그인
+### 📝 회원가입 페이지
+<img src = "../assets/image/signup_page.jpg" width="400">
 
  
+### 로그인페이지
 
-### 📹 랜덤 채팅
-
-온라인에서도 친구들과 소통하세요. 멀리 있어도 마치 옆에 있는 것처럼!
-
-<img src="./assets/gif/un_randomchat.gif" width="600">
+<img src="../assets/image/login_page.jpg" width="600">
 
 ### 👤 마이페이지
 
