@@ -43,7 +43,8 @@
   - 일주일 다양한 주스들이 존재하는 도감을 확인할 수 있어 소소한 재미를 즐길 수 있어요.
 
 - 감정 통계 서비스 (캘린더)
-  - 한달간. ...
+  - 추가 할 예정
+  
 
 ### 개발환경
 
@@ -120,14 +121,13 @@
 
 ### Git 컨벤션
 
-- feat : 새로운 기능 추가 (넓은 개념)
-- fix : 버그 수정
-- design : css 등 UI 디자인 변경
-- add : 코드, 테스트, 예제, 문서 등 추가 생성 (좁은 개념)
-- delete : 코드 삭제
-- rename : 이름 변경, 위치 옮기는 작업
-- refactor : 코드 전면 수정
-- test : 테스트 코드 추가, 테스트 코드 리팩토링
+| 브랜치  | 용도 |
+| --- | --- |
+| master | 제품 출시/배포 |
+| develop | 출시 전 병합 및 테스트 |
+| feature | 기능개발 |
+| hotfix | 긴급한 버그 수정 |
+| release | 이번 출시 버전을 준비 |
 
 ### ERD
 
@@ -140,6 +140,12 @@
 | 80   | nginx HTTP 기본 포트  |
 | 443  | nginx HTTPS          |
 
-### 팀원 역할
 
-<img src="./assets/images/teammates.PNG" width="600">
+# 팀원 소개
+
+뭔가 이렇게 정리해놓은게 더 깔끔하고 예쁜 거 같아서..? 
+<img src="/assets/image/team.png" width="400">
+
+
+# :rocket: 노션 링크
+https://www.notion.so/6f0297b39fd04966a65676eb0d140b69
