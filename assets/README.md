@@ -1,4 +1,4 @@
-# FRIENTREE: 오롯이 당신을 위한 프렌트리 🌳
+# FRIENTREE: 프렌트리 🌳
 
 <img src="/assets/image/Freeee.jpg" width="300">
 
