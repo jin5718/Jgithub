@@ -49,13 +49,6 @@
   
 
 
-
-
-
-
-
-
-
 <br />
 
 ## 주요 기능
@@ -109,7 +102,6 @@
   - nginx
   - GitLab CI/CD
 
-### 상세 스택
 
 ### 백엔드
 ---
@@ -156,7 +148,6 @@
 ---
 
 
-
 - ETC
   - nginx 1.25.1
   - redix:latest
@@ -169,11 +160,12 @@
 - 커뮤니케이션 : Notion, MatterMost, Discord, Gerrit, Git-Flow
 
 ### 서비스 아키텍처
-
 <img src="/assets/image/architecture.jpg" width="400">
+
 
 ### 요구 사항 명세서
 <img src="/assets/image/요구사항명세서.png" width="400">
+
 
 ### 기능 명세서
 <img src="/assets/image/기능명세서11.jpg" width="400">
@@ -181,10 +173,6 @@
 
 ### 화면 설계서
 <img src="/assets/image/Figma.jpg" width="400">
-
-
-
-### API 명세서
 
 
 ### Git 컨벤션
