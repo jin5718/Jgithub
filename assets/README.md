@@ -113,14 +113,15 @@
 
 ### 백엔드
 ---
+**Language |** Java 17, python               
 
-  **Language |** Java 17                                                  
+**Framework |** Spring Boot 3.1.7, FastAPI 0.103.2                 
 
-  **Framework |** Spring Boot 3.1.7                            
-  **DB |** MySQL, Spring Data JPA, MongoDB                
+**DB |** MySQL, Spring Data JPA, MongoDB 
 
-  **CI/CD |** AWS EC2, Docker, Jenkins                        
-  **Build Tool |** Gradle
+**CI/CD |** AWS EC2, Docker, Jenkins             
+
+**Build Tool |** Gradle
 
 ---
 
@@ -139,6 +140,23 @@
 
 ---
 
+
+### 개발환경
+
+---
+
+**Cooperation|** Notion, Discord, Gerrit, Git-Flow
+
+**CI/CD |** AWS EC2, Docker, Jenkins, nginx
+
+**IDE |** IntelliJ IDE, Android Studio
+
+**UI/UX |** Figma
+
+---
+
+
+
 - ETC
   - nginx 1.25.1
   - redix:latest
@@ -154,10 +172,16 @@
 
 <img src="/assets/image/architecture.jpg" width="400">
 
-### 요구 사항 정의서
+### 요구 사항 명세서
+<img src="/assets/image/요구사항명세서.png" width="400">
+
+### 기능 명세서
+<img src="/assets/image/기능명세서11.jpg" width="400">
 
 
 ### 화면 설계서
+<img src="/assets/image/Figma.jpg" width="400">
+
 
 
 ### API 명세서
