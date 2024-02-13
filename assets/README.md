@@ -83,25 +83,6 @@
 - 감정쓰레기통 (이거 뭔가 대체할 단어가 생각이 안 남)
   - 고함항아리.. 감쓰통.. 감정해소... 대나무숲?
 
-### 개발환경
-
-- OS
-  - Local : Windows
-  - AWS : Ubuntu
-- IDE
-  - IntelliJ IDE
-  - Visual Studio Code
-- UI / UX
-  - Figma
-- DataBase
-  - MySQL workbench
-  - MySQL
-  - Redis
-- CI/CD
-  - Docker
-  - nginx
-  - GitLab CI/CD
-
 
 ### 백엔드
 ---
@@ -147,17 +128,41 @@
 
 ---
 
-
-- ETC
+### ETC
   - nginx 1.25.1
   - redix:latest
   - docker
+
+---
+
 
 ### 협업 툴
 
 - 이슈 관리 : Jira
 - 형상 관리 : Gitlab, Git, Gerrit
 - 커뮤니케이션 : Notion, MatterMost, Discord, Gerrit, Git-Flow
+
+
+### 개발환경
+
+- OS
+  - Local : Windows
+  - AWS : Ubuntu
+- IDE
+  - IntelliJ IDE
+  - Visual Studio Code
+- UI / UX
+  - Figma
+- DataBase
+  - MySQL workbench
+  - MySQL
+  - Redis
+- CI/CD
+  - Docker
+  - nginx
+  - GitLab CI/CD
+
+
 
 ### 서비스 아키텍처
 <img src="/assets/image/architecture.jpg" width="600">
