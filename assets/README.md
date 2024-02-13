@@ -160,19 +160,19 @@
 - 커뮤니케이션 : Notion, MatterMost, Discord, Gerrit, Git-Flow
 
 ### 서비스 아키텍처
-<img src="/assets/image/architecture.jpg" width="400">
+<img src="/assets/image/architecture.jpg" width="600">
 
 
 ### 요구 사항 명세서
-<img src="/assets/image/요구사항명세서.png" width="400">
+<img src="/assets/image/요구사항명세서.png" width="600">
 
 
 ### 기능 명세서
-<img src="/assets/image/기능명세서11.jpg" width="400">
+<img src="/assets/image/기능명세서11.jpg" width="600">
 
 
 ### 화면 설계서
-<img src="/assets/image/Figma.jpg" width="400">
+<img src="/assets/image/Figma.jpg" width="600">
 
 
 ### Git 컨벤션
