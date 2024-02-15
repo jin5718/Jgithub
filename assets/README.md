@@ -83,9 +83,13 @@
 <img src="/assets/image/make_juice.gif" width="400">
 
 - 감정 통계 서비스 (캘린더)
-  - 추가 할 예정
+  - 내가 모은 열매들과 감정의 변화를 한 눈에 알아보세요
+  
+  <img src="/assets/image/juice_calendar.gif" width="400">
 
 - 감정 토로
+  - 억울하고 답답해 힘든 감정들을 내뱉고 터뜨려 해소하세요!
+  <img src="/assets/image/blackholeee.gif" width="400">
 
 
 ### 백엔드
