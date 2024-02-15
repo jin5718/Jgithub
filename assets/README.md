@@ -60,14 +60,19 @@
 - 익명 메세지 서비스 (이파리)
   - 익명성을 기반으로 한 이파리 주고받기 서비스. 위로, 격려, 응원을 전하고 따뜻한 마음을 전달받아 보세요.
 
+  이파리 내용을 작성하고 직접 입으로 불어서 전송해 보세요.
+  <br>
+  <img src="/assets/image/leaf_send.gif" width="400">
+
   원하는 카테고리를 선택한 후, 휴대폰을 흔들어 이파리를 받아보세요
   <br>
   <img src="/assets/image/leaf_receive.gif" width="400">
 
-
-
+  
 - STT 서비스 (열매)
   - 친구에게 얘기하듯 편하게 오늘 있었던 일들을 얘기해보세요. 당신의 감정을 분석하여 귀여운 열매로 받아볼 수 있답니다.
+  <br>
+  <img src="/assets/image/kiwi.gif" width="400">
 
   
 ### :tropical_drink: 주스 만들기
@@ -154,22 +159,6 @@ Jenkins
 ### ERD
 
 <img src="/assets/image/DEVELOPER-ERD (1).png" width="600">
-
-### EC2 포트 정리
-
-| 포트 | 내용 |
-| ---- | -------------------- |
-| 80   | nginx HTTP 기본 포트  |
-| 443  | nginx HTTPS          |
-
-
-# :family: 팀원 소개
-
-뭔가 이렇게 정리해놓은게 더 깔끔하고 예쁜 거 같아서..? 
-우리팀도 하나 만들까 생각은 해봤습니다?
-<br>
-<img src="/assets/image/team.png" width="400">
-
 
 # :rocket: 노션 링크
 [DEVERLOPER101 노션 살펴보기](https://www.notion.so/6f0297b39fd04966a65676eb0d140b69)
