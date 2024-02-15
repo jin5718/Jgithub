@@ -72,7 +72,7 @@
   
 ### :tropical_drink: 주스 만들기
 
-- 감정 분석 서비스 (주스)
+- 감정 통계 서비스 (주스)
   - 일주일간 모아둔 열매들로 휴대폰을 흔들어 주스를 만들어 보세요
 
 <img src="/assets/image/make_juice.gif" width="400">
@@ -80,89 +80,50 @@
 - 감정 통계 서비스 (캘린더)
   - 추가 할 예정
 
-- 감정쓰레기통 (이거 뭔가 대체할 단어가 생각이 안 남)
-  - 고함항아리.. 감쓰통.. 감정해소... 대나무숲?
+- 감정 토로
 
 
 ### 백엔드
+
 ---
+
 **Language |** Java 17, python               
 
-**Framework |** Spring Boot 3.1.7, FastAPI 0.103.2                 
+**Framework |** Spring Boot 3.1.7, FastAPI 0.103.2, Pytorch 1.10                
 
-**DB |** MySQL, Spring Data JPA, MongoDB 
+**DB |** MySQL, Spring Data JPA, MongoDB, Redis
 
-**CI/CD |** AWS EC2, Docker, Jenkins             
+**CI/CD |** AWS EC2, GCP, Docker, Jenkins             
 
-**Build Tool |** Gradle
+**Build Tool |** Gradle                     
 
----
+                              
 
-
-### 안드로이드
-
----
-
-  **Language |** Kotlin
-
-  **Framework |** Android Studio
-
-  **DB |**
-
-  **Backend Services |** Firebase
+### INFRA
 
 ---
 
+AWS EC2
 
-### 개발환경
+AWS RDS
+
+Docker
+
+Nginx-RTMP
+
+### CI/CD
 
 ---
 
-**Cooperation|** Notion, Discord, Gerrit, Git-Flow
+Jenkins
 
-**CI/CD |** AWS EC2, Docker, Jenkins, nginx
+### ETC
 
-**IDE |** IntelliJ IDE, Android Studio
+---
 
 **UI/UX |** Figma
 
----
-
-### ETC
-  - nginx 1.25.1
-  - redix:latest
-  - docker
-
----
-
-
-### 협업 툴
-
-- 이슈 관리 : Jira
-- 형상 관리 : Gitlab, Git, Gerrit
-- 커뮤니케이션 : Notion, MatterMost, Discord, Gerrit, Git-Flow
-
-
-### 개발환경
-
-- OS
-  - Local : Windows
-  - AWS : Ubuntu
-- IDE
-  - IntelliJ IDE
-  - Visual Studio Code
-- UI / UX
-  - Figma
-- DataBase
-  - MySQL workbench
-  - MySQL
-  - Redis
-- CI/CD
-  - Docker
-  - nginx
-  - GitLab CI/CD
-
-
+**Cooperation|** Notion, Discord, Gerrit, Git-Flow
 
 ### 서비스 아키텍처
 <img src="/assets/image/architecture.jpg" width="600">
