@@ -1,6 +1,6 @@
 # FRIENTREE: 프렌트리 🌳
 
-<img src="/assets/image/Freeee.jpg" width="300">
+<img src="/assets/image/tree2 1.png" width="300">
 
 <br/>
 
