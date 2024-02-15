@@ -135,7 +135,11 @@ Jenkins
 **Cooperation|** Notion, Discord, Gerrit, Git-Flow
 
 ### 서비스 아키텍처
-<img src="/assets/image/architecture.jpg" width="600">
+<img src="/assets/image/백엔드 아키텍처 구성도.PNG" width="600">
+
+### 안드로이드 구조도
+<img src="/assets/image/안드로이드 구조도.png" width="600">
+
 
 
 ### 요구 사항 명세서
@@ -166,6 +170,3 @@ Jenkins
 
 # :rocket: 노션 링크
 [DEVERLOPER101 노션 살펴보기](https://www.notion.so/6f0297b39fd04966a65676eb0d140b69)
-
-### commit test
-커밋합니데이
