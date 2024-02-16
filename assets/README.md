@@ -92,19 +92,43 @@
   <img src="/assets/image/blackholeee.gif" width="400">
 
 
+### 안드로이드
+
+---
+
+**Language |** Kotlin
+
+**Framework |** Android Studio, Android SDK, 
+
+**DB |**  RoomDB 
+
+**Backend Services |** Firebase, FCM
+
+**Library | J**etpack, Hilt, Retrofit, Flow
+
+**Etc |**  DataStore, CustomCalendar
+
 ### 백엔드
 
 ---
 
-**Language |** Java 17, python               
+**IDE |** IntelliJ 23.3.4
 
-**Framework |** Spring Boot 3.1.7, FastAPI 0.103.2, Pytorch 1.10                
+**Language |** Java 17, python 3.7.0               
 
-**DB |** MySQL, Spring Data JPA, MongoDB, Redis
+**Framework |** Spring Boot 3.1.8, FastAPI 0.103.2, Pytorch 1.10                
+
+**DB |** Mysql 8.0.35 - RDS, Spring Data JPA, MongoDB 7.0.5, redis 6.0.16
 
 **CI/CD |** AWS EC2, GCP, Docker, Jenkins             
 
-**Build Tool |** Gradle                     
+**Build Tool |** Gradle
+
+**AI Services |** Naver Clova, Kobert
+
+**Security |** Spring Security, JWT
+
+**Cloud Platform |** Google Cloud Platform (GCP)
 
                               
 
@@ -116,15 +140,21 @@ AWS EC2
 
 AWS RDS
 
-Docker
+AWS S3
+
+docker 25.0.0
+
+docker-hub
+
+docker-compose 1.29.2
 
 Nginx-RTMP
 
-### CI/CD
+Niginx 1.18.0
 
----
+Ubuntu 20.04.6 LTS
 
-Jenkins
+Jenkins-jdk17
 
 ### ETC
 
@@ -133,6 +163,7 @@ Jenkins
 **UI/UX |** Figma
 
 **Cooperation|** Notion, Discord, Gerrit, Git-Flow
+
 
 ### 서비스 아키텍처
 <img src="/assets/image/백엔드 아키텍처 구성도.PNG" width="600">
